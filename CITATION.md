@@ -1,6 +1,6 @@
 # Citation guidance (provisional)
 
-This is **not** a final independently verified APA 7 bibliography. Academic reviewers should check official document title pages, dates, release versions and URLs before publication.
+This is **not** a final independently approved APA 7 bibliography. Phase 2J verified original Census release pages, accessible official technical documentation, and all 17 Phase 2D source hashes; see `06_Methodology/Phase2/PHASE2J_APA7_PRIMARY_SOURCE_REFERENCE_AUDIT.md` for the provisional reference register, original source links, verified release dates, and remaining APA 7 signoff requirements.
 
 ## Cite original data products
 - U.S. Census Bureau, 2020 Island Areas Census Demographic Profile Summary File, official technical documentation and four Area Table Matrix workbooks.

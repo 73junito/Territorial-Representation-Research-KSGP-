@@ -15,6 +15,8 @@ A source-linked research repository examining demographic data and the limits of
 
 ## Read first
 
+- [Phase 2J faculty academic-review draft](08_Final_Report/Phase2J_Faculty_Academic_Review_Draft.md)
+- [Phase 2J source and provisional APA reference audit](06_Methodology/Phase2/PHASE2J_APA7_PRIMARY_SOURCE_REFERENCE_AUDIT.md)
 - [Integrated descriptive report](08_Final_Report/Phase2F_Integrated_Demographic_Socioeconomic_Research_Report.md)
 - [Source-specific evidence appendix](08_Final_Report/Phase2E_Source_Specific_Evidence_Appendix.md)
 - [Phase 2H acceptance decision](06_Methodology/Phase2/PHASE2H_ACCEPTANCE_DECISION.md)
