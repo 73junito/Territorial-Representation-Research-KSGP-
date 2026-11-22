@@ -1,0 +1,8 @@
+source_id,agency,dataset_title,reference_years,url,accessed_date,verification_notes
+CEN_PR,U.S. Census Bureau,QuickFacts Puerto Rico,2010 and 2020,https://www.census.gov/quickfacts/fact/table/PR/PST045224,2026-11-21,2010 3725789 and 2020 3285874
+CEN_DC,U.S. Census Bureau,QuickFacts District of Columbia,2010 and 2020,https://www.census.gov/quickfacts/fact/table/DC/PST120224,2026-11-21,2010 601723 and 2020 689545
+CEN_GU,U.S. Census Bureau,2020 Census Population and Housing Unit Counts for Guam,2010 and 2020,https://www.census.gov/newsroom/press-releases/2021/2020-census-guam.html,2026-11-21,2010 159358 and 2020 153836
+CEN_VI,U.S. Census Bureau,2020 Census Population and Housing Unit Counts for U.S. Virgin Islands,2010 and 2020,https://www.census.gov/newsroom/press-releases/2021/2020-census-us-virgin-islands.html,2026-11-21,2010 106405 and 2020 87146
+CEN_AS,U.S. Census Bureau,2020 Census Population and Housing Unit Counts for American Samoa,2010 and 2020,https://www.census.gov/newsroom/press-releases/2021/2020-census-american-samoa.html,2026-11-21,2010 55519 and 2020 49710
+CEN_MP,U.S. Census Bureau,2020 Census Population and Housing Unit Counts for CNMI,2010 and 2020,https://www.census.gov/newsroom/press-releases/2021/2020-census-cnmi.html,2026-11-21,2010 53883 and 2020 47329
+HOUSE,U.S. House of Representatives,The House Explained,2026,https://www.house.gov/the-house-explained,2026-11-21,Delegates and resident commissioner may not vote when House meets as House of Representatives

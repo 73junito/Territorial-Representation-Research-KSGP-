@@ -1,0 +1,11 @@
+check,status,evidence
+Six unique jurisdictions,PASS,6
+Source CSV counts match SPSS,PASS,"2010 and 2020, all 6"
+2020 census population checksum,PASS,4313440
+2010 census population checksum,PASS,4702677
+Change computed from counts,PASS,-389237
+Percent changes computed from counts,PASS,-8.2769%
+Unexpected 2021 file contents identical,PASS,Only file name and binary encoding differ
+SPSS output inspected,PASS,"List table and descriptive output, SPSS save file contention warning"
+Inference tests required,NOT APPLICABLE,"Jurisdiction-level census counts, not a random sample"
+Official raw census data archived,NOT YET,Manual transcriptions validated against official Census pages

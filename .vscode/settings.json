@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "*.sps": "plaintext"
+  },
+  "files.exclude": {
+    "**/__pycache__": true
+  },
+  "search.exclude": {
+    "**/*.spv": true,
+    "**/*.sav": true,
+    "**/*.zip": true
+  },
+  "explorer.compactFolders": false,
+  "python.defaultInterpreterPath": "C:\\Python314\\python.exe",
+  "terminal.integrated.cwd": "${workspaceFolder}"
+}

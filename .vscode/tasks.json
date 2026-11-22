@@ -1,0 +1,38 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Phase 2: Validate Census and SPSS files",
+      "type": "process",
+      "command": "C:\\Python314\\python.exe",
+      "args": [
+        "${workspaceFolder}\\06_Methodology\\Phase2\\validate_phase2_workspace.py"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      }
+    },
+    {
+      "label": "Phase 2: Review SPSS syntax in VS Code",
+      "type": "process",
+      "command": "C:\\Users\\rod63\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code.cmd",
+      "args": [
+        "--reuse-window",
+        "${workspaceFolder}\\03_SPSS_Syntax\\Phase2\\02_age_sex_2020_run_and_save.sps"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    }
+  ]
+}

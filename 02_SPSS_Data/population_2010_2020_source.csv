@@ -1,0 +1,7 @@
+geo_code,jurisdiction,jurisdiction_type,population_2010,population_2020,house_final_vote_members,senate_members,source_id
+PR,Puerto Rico,territory,3725789,3285874,0,0,CEN_PR
+DC,"Washington, D.C.",federal_district,601723,689545,0,0,CEN_DC
+GU,Guam,territory,159358,153836,0,0,CEN_GU
+VI,U.S. Virgin Islands,territory,106405,87146,0,0,CEN_VI
+AS,American Samoa,territory,55519,49710,0,0,CEN_AS
+MP,Northern Mariana Islands,territory,53883,47329,0,0,CEN_MP
