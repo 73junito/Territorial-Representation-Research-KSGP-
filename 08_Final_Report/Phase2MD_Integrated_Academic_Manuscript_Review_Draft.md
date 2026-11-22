@@ -153,4 +153,8 @@ U.S. Census Bureau. (2022). *2020 Island Areas Censuses (IAC) Demographic Profil
 - Portable evidence validation: `python 06_Methodology/Phase2/validate_phase2m_portable.py`.
 - External academic review handoff: `09_Committee_Package/Phase2K_Faculty_Review_Handoff.md`.
 
+## Figure companion — Phase 2M-E
+
+The 14 individual source-specific publication-draft figures (PNG and SVG) are cataloged in [Phase 2M-E academic figure acceptance](../06_Methodology/Phase2/PHASE2ME_ACADEMIC_FIGURE_ACCEPTANCE.md), and source values and SHA-256 export hashes are recorded in [the figure index](../05_Statistical_Graphics/Phase2ME/FIGURE_INDEX.csv). The two six-jurisdiction figures describe only 2020 Census population and age composition; four Island Areas figures are separated from the eight ACS/PRCS period-specific survey charts. Published 90% survey MOEs are displayed only where applicable; no combined six-way socioeconomic significance is inferred.
+
 **Acceptance:** DRAFT GO for faculty review; scientific comparability claims CONDITIONAL/NO-GO as identified; final publication **NO-GO** until independent qualified academic review and any applicable publication/committee authorization.
