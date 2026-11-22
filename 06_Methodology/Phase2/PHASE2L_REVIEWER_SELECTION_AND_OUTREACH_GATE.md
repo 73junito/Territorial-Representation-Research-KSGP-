@@ -1,7 +1,7 @@
 # TRR Phase 2L — Reviewer Selection and Outreach Gate
 
 **Date:** November 21, 2026
-**Status update (November 21, 2026):** USER CONFIRMED INVITATION SENT FROM STUDENT EMAIL. Independent mailbox/sent-item verification not performed. Reviewer acknowledgment and approval remain PENDING.
+**Status update (November 21, 2026):** USER CONFIRMED INITIAL INVITATION AND FACULTY-LANDING-PAGE FOLLOW-UP SENT FROM STUDENT EMAIL. Independent sent-item/delivery verification not performed. Reviewer acknowledgment, acceptance, and approval remain PENDING.
 
 ## Priority reviewer
 
@@ -25,7 +25,8 @@ The letter contains a non-coercive request to consider the research, a link to t
 | Address available from course syllabus | PASS | Confirmed privately; not republished |
 | Reviewer invitation drafted | PASS | Phase 2L invitation file |
 | Sender method | USER-REPORTED | Sent from research owner's student email; no ChatGPT Gmail connection used |
-| Email actually sent | **USER-CONFIRMED SENT** | Research owner reported sending from student email on November 21, 2026; no message ID or delivery receipt inspected |
+| Initial invitation sent | **USER-CONFIRMED SENT** | Research owner reported sending from student email on November 21, 2026; no message ID or delivery receipt inspected |
+| Faculty review page follow-up sent | **USER-CONFIRMED SENT** | Research owner confirmed follow-up sent November 21, 2026, with direct public review page URL; no message ID or delivery receipt inspected |
 | Reviewer acknowledges request | PENDING | No response |
 | Reviewer confirms qualifications, availability, independence | PENDING | No response |
 | Independent methodology review returned | PENDING | No review |
@@ -35,6 +36,6 @@ The letter contains a non-coercive request to consider the research, a link to t
 
 ## Safe continuation
 
-The research owner reported sending the invitation from their student email. Preserve the original sent email in the student mailbox; do not publish private correspondence or email headers in this public repository. No need to resend unless delivery failure is reported. A reported send is not proof of delivery, reviewer acceptance, or review completion.
+The research owner reported sending both the invitation and a follow-up with the direct faculty research review page from their student email. Preserve sent correspondence in the student mailbox; do not publish private email headers or reviewer messages in the public repository. No further message is needed at this stage unless delivery fails or the owner requests one. A user-reported send is not proof of delivery, reviewer acceptance, or review completion.
 
 Retain the existing Phase 2J/2K source evidence and audit logs. Private faculty correspondence, signatures, and course contact information should not be automatically published into public GitHub files. GitHub Issue #3 remains open pending written academic review.
