@@ -22,3 +22,6 @@ Thumbs.db
 
 # Local downloaded copy of GitHub Actions artifact (official values are archived separately)
 06_Methodology/Phase2/_phase2i_actions_download/
+
+# Temporary read-only staging of downloaded direct Census MOE GitHub Action artifact
+06_Methodology/Phase2/_phase2i_direct_count_stage/
