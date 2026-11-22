@@ -19,3 +19,6 @@ Thumbs.db
 # These two are >10 MB and one exceeds GitHub's 100 MB object limit.
 01_Government_Sources/Phase2_Socioeconomic/Census/PR_2020_DHC_original.zip
 01_Government_Sources/Phase2_Socioeconomic/Census/DC_2020_DHC_original.zip
+
+# Local downloaded copy of GitHub Actions artifact (official values are archived separately)
+06_Methodology/Phase2/_phase2i_actions_download/
