@@ -24,6 +24,10 @@ jobs:
         env:
           CENSUS_API_KEY: ${{ secrets.CENSUS_DATA_API }}
         run: python 06_Methodology/Phase2/fetch_phase2i_official_profile_moes.py
+      - name: Retrieve direct DC education count MOEs for variance diagnosis
+        env:
+          CENSUS_API_KEY: ${{ secrets.CENSUS_DATA_API }}
+        run: python 06_Methodology/Phase2/fetch_phase2i_dc_direct_education_moe.py
       - name: Archive independently published profile values
         if: success()
         uses: actions/upload-artifact@v4
@@ -32,5 +36,7 @@ jobs:
           path: |
             01_Government_Sources/Phase2_Socioeconomic/Census/ACS_Profile_*_official.json
             06_Methodology/Phase2/PHASE2I_PUBLISHED_PROFILE_NUMERIC_RECONCILIATION.csv
+            06_Methodology/Phase2/ACS_DC_*_Direct_Education_Profile_Count_Official.json
+            06_Methodology/Phase2/PHASE2I_DC_DIRECT_EDUCATION_COUNT_MOE.csv
           if-no-files-found: error
           retention-days: 30
