@@ -4,7 +4,7 @@
 
 **[START HERE — Read the research manuscript, review questions, and figures](START_HERE_FOR_FACULTY_REVIEW.md)**
 
-**[Open the full academic manuscript](08_Final_Report/Phase2MD_Integrated_Academic_Manuscript_Review_Draft.md)** · **[View all 14 research figures](05_Statistical_Graphics/Phase2ME/)** · **[Read the consolidated methods and evidence packet](09_Committee_Package/Phase2MF_Consolidated_Academic_Readiness_Decision.md)**
+**[Open the current APA-cited academic manuscript](08_Final_Report/Phase2N_APA7_Cited_Academic_Manuscript_Review_Draft.md)** · **[View all 14 research figures](05_Statistical_Graphics/Phase2ME/)** · **[Read the consolidated methods and evidence packet](09_Committee_Package/Phase2MF_Consolidated_Academic_Readiness_Decision.md)**
 
 These are working drafts for independent review; no faculty endorsement or final publication approval is claimed.
 
@@ -23,6 +23,8 @@ A source-linked research repository examining demographic data and the limits of
 
 ## Read first
 
+- [Phase 2N APA 7-cited research manuscript (latest academic review draft)](08_Final_Report/Phase2N_APA7_Cited_Academic_Manuscript_Review_Draft.md)
+- [Phase 2N APA 7 source and editorial acceptance audit](06_Methodology/Phase2/PHASE2N_APA7_CITATION_EDITORIAL_AUDIT.md)
 - [Phase 2M-F consolidated academic readiness and GO/NO-GO packet](09_Committee_Package/Phase2MF_Consolidated_Academic_Readiness_Decision.md)
 - [Phase 2M-D integrated academic manuscript review draft](08_Final_Report/Phase2MD_Integrated_Academic_Manuscript_Review_Draft.md)
 - [Phase 2M-E source-specific figure catalog](06_Methodology/Phase2/PHASE2ME_ACADEMIC_FIGURE_ACCEPTANCE.md)

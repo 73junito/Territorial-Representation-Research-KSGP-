@@ -12,7 +12,8 @@ The primary demographic analysis covers the six defined jurisdictions' **2020 Ce
 
 ## Read these materials first
 
-1. **[Research manuscript: complete academic working draft](08_Final_Report/Phase2MD_Integrated_Academic_Manuscript_Review_Draft.md)** — Abstract, purpose, research design, methods, five evidence tables, 90% margins of error, discussion, limitations, and provisional citations.
+1. **[Research manuscript: current APA-cited academic review draft](08_Final_Report/Phase2N_APA7_Cited_Academic_Manuscript_Review_Draft.md)** — Abstract, purpose, research design, methods, five evidence tables, 90% margins of error, discussion, limitations, and provisional citations.
+   The [Phase 2N citation and editorial audit](06_Methodology/Phase2/PHASE2N_APA7_CITATION_EDITORIAL_AUDIT.md) documents the provisional Census author-year references and remaining faculty checks; the [prior Phase 2M-D manuscript](08_Final_Report/Phase2MD_Integrated_Academic_Manuscript_Review_Draft.md) is preserved for audit history.
 2. **[Research figures: 14 data-validated charts](05_Statistical_Graphics/Phase2ME/)** — 2020 population and age structure, four Island Areas Census plots, four 2019 ACS/PRCS charts, and four 2016–2020 ACS/PRCS charts. Both PNG and SVG versions are available.
 3. **[Consolidated research readiness and methodological decision](09_Committee_Package/Phase2MF_Consolidated_Academic_Readiness_Decision.md)** — One location for the research scope, evidence acceptance, technical limitations, outstanding questions, and GO/NO-GO controls.
 4. **[Faculty review handoff questions](09_Committee_Package/Phase2K_Faculty_Review_Handoff.md)** — Specific questions regarding uncertainty, source comparability, Census source definitions, and acceptable conclusions.
