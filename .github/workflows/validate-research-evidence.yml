@@ -1,0 +1,28 @@
+name: Validate research evidence (read-only)
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - '06_Methodology/Phase2/validate_phase2m_portable.py'
+      - '01_Government_Sources/Phase2_Socioeconomic/**'
+      - '02_SPSS_Data/Phase2/age_sex_2020_six_jurisdictions.csv'
+      - '06_Methodology/Phase2/PHASE2I_*.csv'
+      - '06_Methodology/Phase2/ACS_DC_*_Official.json'
+      - '.github/workflows/validate-research-evidence.yml'
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out exact research revision
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Python (standard library only)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify original sources and published MOE values
+        run: python 06_Methodology/Phase2/validate_phase2m_portable.py
