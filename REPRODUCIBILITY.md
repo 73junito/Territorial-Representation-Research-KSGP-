@@ -15,7 +15,7 @@ python .\06_Methodology\Phase2\validate_phase2f_research.py
 python .\06_Methodology\Phase2\validate_phase2h_review.py
 ~~~
 
-These checks test internal source reconciliation; they do not recover the **12 missing independent published Census Data Profile numeric percentage MOEs**. The Phase 2H matrix intentionally leaves these official cells blank.
+These checks test internal source reconciliation; the historical Phase 2H matrix intentionally retains its then-blocked published-MOE fields. Phase 2I subsequently acquired all 12 directly published values and reconciled the two D.C. education discrepancies using separately published composite count MOEs; see PHASE2I_DC_EDUCATION_MOE_ROOT_CAUSE_REVIEW.md.
 
 Do not re-run acquisition or build scripts directly over existing evidence. Some scripts write new files or assert that no destination exists. Reproduce source acquisition in a separate test workspace, validate archive hashes, and keep 2019 one-year and 2016–2020 five-year survey series separate.
 

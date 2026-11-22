@@ -10,7 +10,7 @@ A source-linked research repository examining demographic data and the limits of
 |---|---|---|
 | Population and age/sex (2010–2020) | Six jurisdictions; 2020 population total 4,313,440; SPSS pilot | Descriptive content PASS; historical SAV byte-hash discrepancy OPEN |
 | Source-specific socioeconomics | 32 observations from four Island Areas 2020 Census profiles plus PR/DC 2019 ACS/PRCS one-year and 2016–2020 five-year | Descriptive GO; unqualified six-way inference NO-GO |
-| Survey uncertainty | 80 estimate/MOE components; 4 directly published income intervals; 12 calculated approximate percentage intervals | Derived computations PASS; **independent published-profile numeric MOE reconciliation 0/12 (BLOCKED)** |
+| Survey uncertainty | 80 estimate/MOE components; 4 directly published income intervals; 12 calculated approximate percentage intervals | Derived computations PASS; **published-profile MOE reconciliation 12/12 numerically accounted for (Phase 2I); exact covariance mechanism not reconstructed** |
 | Academic and committee review | Phase 2G/2H methodological reports and review drafts | External reviewer approval PENDING; final publication NO-GO |
 
 ## Read first
@@ -18,7 +18,8 @@ A source-linked research repository examining demographic data and the limits of
 - [Integrated descriptive report](08_Final_Report/Phase2F_Integrated_Demographic_Socioeconomic_Research_Report.md)
 - [Source-specific evidence appendix](08_Final_Report/Phase2E_Source_Specific_Evidence_Appendix.md)
 - [Phase 2H acceptance decision](06_Methodology/Phase2/PHASE2H_ACCEPTANCE_DECISION.md)
-- [Published-MOE reconciliation status](06_Methodology/Phase2/PHASE2H_PUBLISHED_MOE_RECONCILIATION.md)
+- [Phase 2I published-MOE reconciliation and D.C. education variance diagnosis](06_Methodology/Phase2/PHASE2I_DC_EDUCATION_MOE_ROOT_CAUSE_REVIEW.md)
+- [Historical Phase 2H acquisition-blocked record](06_Methodology/Phase2/PHASE2H_PUBLISHED_MOE_RECONCILIATION.md)
 - [Historical SPSS file preservation review](06_Methodology/Phase2/PHASE2H_ARCHIVAL_ROOT_CAUSE_REVIEW.md)
 - [Committee draft](09_Committee_Package/Phase2H_Committee_Research_Brief_Review_Draft.md)
 

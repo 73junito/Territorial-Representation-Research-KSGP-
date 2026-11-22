@@ -10,7 +10,7 @@ This is **not** a final independently verified APA 7 bibliography. Academic revi
 
 For each reported observation specify Census product, jurisdiction, reference period, exact table field, source URL, estimate denominator, units and uncertainty status. Island Areas reference codes include DPxx0200001, DPxx0510001, DPxx0630001 and DPxx0900001/0002. ACS/PRCS component tables include B15003, B23025, B19013 and B17001.
 
-The calculated percentage MOEs are **method-derived approximations**, not independently downloaded official profile MOEs. Refer readers to the Phase 2H reconciliation matrix and its BLOCKED status.
+The Phase 2F calculated percentage MOEs are **method-derived approximations**; the Phase 2I investigation independently retrieved all 12 official profile MOEs. Ten matched the computed approximations to display precision, while two D.C. educational-attainment MOEs required replacing a four-component quadrature numerator uncertainty with the Census Bureau's directly published composite-count MOE. Cite Phase 2I for current acceptance and Phase 2H as a historical gate.
 
 ## Cite this working repository
 
