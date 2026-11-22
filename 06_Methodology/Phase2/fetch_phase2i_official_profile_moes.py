@@ -50,12 +50,16 @@ for period, year, dataset in periods:
         fields = ["NAME"] + [v for pair in variants.values() for v in pair]
         url = f"https://api.census.gov/data/{year}/acs/{dataset}/profile"
         # Never print response.url, as requests places the key in its query string.
-        response = requests.get(
-            url,
-            params={"get": ",".join(fields), "for": f"state:{state}", "key": KEY},
-            timeout=45,
-            allow_redirects=True,
-        )
+        try:
+            response = requests.get(
+                url,
+                params={"get": ",".join(fields), "for": f"state:{state}", "key": KEY},
+                timeout=45,
+                allow_redirects=True,
+            )
+        except requests.RequestException:
+            # Do not stringify request exceptions; they can contain URLs with the key.
+            raise RuntimeError(f"BLOCKED {period} {geo}: network request failed (details suppressed)") from None
         if response.status_code != 200 or "missing_key.html" in response.url:
             raise RuntimeError(
                 f"BLOCKED {period} {geo}: Census returned status {response.status_code} "

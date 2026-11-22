@@ -1,0 +1,36 @@
+name: Verify published Census profile MOEs
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  fetch-published-profile-moes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out research snapshot
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install minimum HTTP dependency
+        run: python -m pip install 'requests==2.32.5'
+      - name: Retrieve official profile values without logging the key
+        env:
+          CENSUS_API_KEY: ${{ secrets.CENSUS_DATA_API }}
+        run: python 06_Methodology/Phase2/fetch_phase2i_official_profile_moes.py
+      - name: Archive independently published profile values
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: phase2i-official-census-profile-moe-values
+          path: |
+            01_Government_Sources/Phase2_Socioeconomic/Census/ACS_Profile_*_official.json
+            06_Methodology/Phase2/PHASE2I_PUBLISHED_PROFILE_NUMERIC_RECONCILIATION.csv
+          if-no-files-found: error
+          retention-days: 30
