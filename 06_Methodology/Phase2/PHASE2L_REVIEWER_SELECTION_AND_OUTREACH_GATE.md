@@ -1,7 +1,7 @@
 # TRR Phase 2L — Reviewer Selection and Outreach Gate
 
 **Date:** November 21, 2026
-**Status:** STATISTICAL REVIEWER CANDIDATE IDENTIFIED; ADDRESSED INVITATION PREPARED; NOT SENT.
+**Status update (November 21, 2026):** USER CONFIRMED INVITATION SENT FROM STUDENT EMAIL. Independent mailbox/sent-item verification not performed. Reviewer acknowledgment and approval remain PENDING.
 
 ## Priority reviewer
 
@@ -24,8 +24,8 @@ The letter contains a non-coercive request to consider the research, a link to t
 | Reviewer candidate identified from prior academic contact | PASS | Course syllabus identifies statistical expertise |
 | Address available from course syllabus | PASS | Confirmed privately; not republished |
 | Reviewer invitation drafted | PASS | Phase 2L invitation file |
-| Authorized email sender connection | NOT CONNECTED | Gmail plugin not installed at preparation time |
-| Email actually sent | **NOT SENT** | No sent-message ID/confirmation |
+| Sender method | USER-REPORTED | Sent from research owner's student email; no ChatGPT Gmail connection used |
+| Email actually sent | **USER-CONFIRMED SENT** | Research owner reported sending from student email on November 21, 2026; no message ID or delivery receipt inspected |
 | Reviewer acknowledges request | PENDING | No response |
 | Reviewer confirms qualifications, availability, independence | PENDING | No response |
 | Independent methodology review returned | PENDING | No review |
@@ -35,6 +35,6 @@ The letter contains a non-coercive request to consider the research, a link to t
 
 ## Safe continuation
 
-Use a connected personal mail service or the user's own email application to send the draft **only when an authorized sender is available**. The technical Resend transactional email service is not a substitute for an unverified personal sender address. Do not submit a message from a fabricated identity. No automatic sending through Windows shell or unrelated email services.
+The research owner reported sending the invitation from their student email. Preserve the original sent email in the student mailbox; do not publish private correspondence or email headers in this public repository. No need to resend unless delivery failure is reported. A reported send is not proof of delivery, reviewer acceptance, or review completion.
 
 Retain the existing Phase 2J/2K source evidence and audit logs. Private faculty correspondence, signatures, and course contact information should not be automatically published into public GitHub files. GitHub Issue #3 remains open pending written academic review.
