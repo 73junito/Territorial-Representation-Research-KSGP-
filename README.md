@@ -15,6 +15,10 @@ A source-linked research repository examining demographic data and the limits of
 
 ## Read first
 
+- [Phase 2M-F consolidated academic readiness and GO/NO-GO packet](09_Committee_Package/Phase2MF_Consolidated_Academic_Readiness_Decision.md)
+- [Phase 2M-D integrated academic manuscript review draft](08_Final_Report/Phase2MD_Integrated_Academic_Manuscript_Review_Draft.md)
+- [Phase 2M-E source-specific figure catalog](06_Methodology/Phase2/PHASE2ME_ACADEMIC_FIGURE_ACCEPTANCE.md)
+
 - [Phase 2J faculty academic-review draft](08_Final_Report/Phase2J_Faculty_Academic_Review_Draft.md)
 - [Phase 2J source and provisional APA reference audit](06_Methodology/Phase2/PHASE2J_APA7_PRIMARY_SOURCE_REFERENCE_AUDIT.md)
 - [Integrated descriptive report](08_Final_Report/Phase2F_Integrated_Demographic_Socioeconomic_Research_Report.md)
