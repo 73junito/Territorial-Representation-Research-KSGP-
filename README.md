@@ -1,5 +1,13 @@
 # Territorial Representation Research
 
+## For faculty and academic reviewers
+
+**[START HERE — Read the research manuscript, review questions, and figures](START_HERE_FOR_FACULTY_REVIEW.md)**
+
+**[Open the full academic manuscript](08_Final_Report/Phase2MD_Integrated_Academic_Manuscript_Review_Draft.md)** · **[View all 14 research figures](05_Statistical_Graphics/Phase2ME/)** · **[Read the consolidated methods and evidence packet](09_Committee_Package/Phase2MF_Consolidated_Academic_Readiness_Decision.md)**
+
+These are working drafts for independent review; no faculty endorsement or final publication approval is claimed.
+
 A source-linked research repository examining demographic data and the limits of socioeconomic comparison for **Puerto Rico, Guam, American Samoa, the U.S. Virgin Islands, the Northern Mariana Islands, and Washington, D.C.** Washington, D.C. is a federal district, not a U.S. territory.
 
 > **Research status: conditional academic and committee review drafts, not approved publication.** Repository naming does not establish endorsement by the Kansas Green Party or its committees.
